@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,java,arduino,verilog,azure,mysql,postgresql,sqlite,javascript,linux,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,java,arduino,azure,mysql,postgresql,sqlite,matlab,linux,vscode,github" />
 </p>
 
 ---
@@ -63,30 +63,7 @@
 
 ---
 
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> *(Auto-updated with GitHub Actions – just feed me your RSS!)*
-
----
-
-## 👁️ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/gautham-here/count.svg" />
-</p>
-
----
-
-## 📜 Fun Facts & Personality
-
-- 🧩 I love turning hybrid ideas (code + circuit + insight) into working demos  
-- 🎸 I explore music programming + audio signal processing in free time  
-- 🎯 “Don’t build to impress. Build to solve.”
-
----
+<!--
 
 ## 🏁 Credits
 
@@ -96,3 +73,5 @@
 - 🐍 Snake action via [Platane/snk](https://github.com/Platane/snk)
 
 ---
+-->
+
