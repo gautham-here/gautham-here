@@ -47,7 +47,7 @@
 ## 🐍 Commit Activity Snake
 
 <p align="center">
-  <img src="https://github.com/gautham-here/gautham-here/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gautham-here/gautham-here/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
