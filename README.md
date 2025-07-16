@@ -7,8 +7,9 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Rank+1+%7C+ECE+%7C+VIT+Chennai;Online+Degree+%7C+BS+Data+Science+%7C+IIT+Madras;VLSI+Design+%7C+LLMs+and+AI+%7C+IoT+and+Embedded+Systems;Exploring+Real+World+Solutions+and+challenges;Open+to+collaborate+in+projects+and+hackathons!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Rank+1+%7C+ECE+%7C+VIT+Chennai;BS+Data+Science+%7C+IIT+Madras+Online+Degree;VLSI+Design+%7C+IoT+%7C+Embedded+Systems;ML+and+DL+%7C+Data+Analysis+%7C+Web+Development;Communication+Systems+%7C+Music+Programming+%7C+Audio+Analysis;Competitive+Coding+%7C+DSA+Programming;Solving+Real+World+Problems+with+Code;Open+for+Projects+%26+Hackathon+Collabs!" alt="Typing SVG" />
 </p>
+
 
 ---
 
