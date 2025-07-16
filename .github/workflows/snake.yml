@@ -2,7 +2,8 @@ name: 🐍 Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight
+    - cron: "15 1 * * *" # 6:45 AM IST
+    - cron: "15 13 * * *" # 6:45 PM IST
   workflow_dispatch:
 
 jobs:
