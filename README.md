@@ -63,7 +63,7 @@
   <a href="mailto:gr0gautham@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/gautham-here">
+  <a href="https://www.codechef.com/users/gauthamhere">
     <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/gauthamgr">
