@@ -2,16 +2,12 @@
   <img src="https://github.com/gautham-here/gautham-here/blob/main/banner.jpg?raw=true" alt="Banner" width="100%">
 </p>
 
-<p align="center">
-  📷 Banner designed by [Freepik](https://www.freepik.com)
-</p>
-
-<h1 align="center">Hi 👋, I'm Gautham R</h1>
+<h1 align="center">Welcome to my page! I'm Gautham R</h1>
 <h3 align="center">Blending AI, VLSI, and Real-World Innovation</h3>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Engineering+Student+%7C+AI+Dev;VLSI+Explorer+%7C+Hackathon+Lover;Building+Smart+Systems+that+Matter!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Rank+1+%7C+ECE+%7C+VIT+Chennai;Online+Degree+%7C+BS+Data+Science+%7C+IIT+Madras;VLSI+Design+%7C+LLMs+and+AI+%7C+IoT+and+Embedded+Systems;Exploring+Real+World+Solutions+and+challenges;Open+to+collaborate+in+projects+and+hackathons!" alt="Typing SVG" />
 </p>
 
 ---
