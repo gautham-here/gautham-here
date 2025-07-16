@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gautham-here/gautham-here/blob/main/assets/banner.jpg?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/gautham-here/gautham-here/blob/main/banner.jpg?raw=true" alt="Banner" width="100%">
 </p>
 
 <p align="center">
