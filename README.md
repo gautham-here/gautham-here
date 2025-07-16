@@ -2,45 +2,34 @@
   <img src="https://github.com/gautham-here/gautham-here/blob/main/banner.jpg?raw=true" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hey there 👋, I'm Gautham R</h1>
-<h3 align="center">AI + VLSI + Embedded Systems | Building Hybrid Tech That Matters</h3>
+<h1 align="center">Hey there, this is Gautham R!</h1>
 
 <!-- Typing Effect -->
-<p align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Rank+1+%7C+ECE+%7C+VIT+Chennai;BS+Data+Science+%7C+IIT+Madras;AI+%7C+Embedded+Systems+%7C+VLSI+Design;From+Signal+to+Silicon%2C+Idea+to+Impact;Projects+%7C+Prototypes+%7C+Hackathons+%7C+Papers;Let’s+build+real-world+tech+that+solves+real-world+problems!" />
 </p>
 
 ---
 
-## 🚀 About Me
+## What I am doing:
 
-- 🎓 Dual-degree student: **ECE @ VIT Chennai** + **BS Data Science @ IIT Madras**
-- 🔭 Currently building **Sahayak AI**, **SowSure**, and **Smart Factory Systems**
-- 🌱 Learning **Edge AI**, **CNNs on FPGA**, **Verilog**, and **Embedded Vision**
-- 🛠️ I work at the intersection of **Software + Hardware + AI**
-- 💬 Ask me about: 
-  - LLM pipelines & lightweight inference
-  - Convolution on silicon
-  - Hackathon planning + storytelling
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/gautham-r2005) | [Email](mailto:gr0gautham@gmail.com)
+- Pursuing B.Tech. ECE in VIT Chennai and Online BS in Data Science @ IIT Madras
+- Rank 1 for Branch ECE, considering the first two years.
+- Explored multiple domains including but not limited to Electronics (VLSI Design), Signal processing, Machine Learning and Web Development.
 
----
+## 🌟 Featured Projects
+
+- **[SowSure](https://github.com/gautham-here/sowsure)** – Decision-support frontend app for farmers powered by data and simplicity.
+- **[ISA Internship Projects](https://github.com/gautham-here/isa-summer-2025)** – AI + space + physics: a deep dive into astrophysics under India Space Academy.
+- **[DTMF with Arduino](https://github.com/gautham-here/DTMFwithArduino)** – Tone-based digital control using simple hardware, analysis and demo using MATLAB.
+
+> More coming soon: 1D vs 2D Image Autoencoders, VLSI CNNs, and Unity-linked Smart Factory Twins!
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,verilog,arduino,firebase,react,tailwindcss,linux,vscode,unity,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,java,arduino,verilog,azure,mysql,postgresql,sqlite,javascript,linux,vscode,git,github" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-- 🌾 **[SowSure](https://github.com/gautham-here/sowsure)** – Decision-support frontend app for farmers powered by data and simplicity.
-- 🛰️ **[ISA Internship Projects](https://github.com/gautham-here/isa-summer-2025)** – AI + space + physics: a deep dive into astrophysics under India Space Academy.
-- 🔊 **[DTMF with Arduino](https://github.com/gautham-here/DTMFwithArduino)** – Tone-based digital control using simple hardware.
-
-> More coming soon: 1D vs 2D Image Autoencoders, VLSI CNNs, and Unity-linked Smart Factory Twins!
 
 ---
 
