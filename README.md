@@ -45,7 +45,7 @@
 </p>
 
 ---
-
+<!--
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
@@ -53,12 +53,22 @@
 </p>
 
 ---
-
+-->
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gautham-r2005"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gr0gautham@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gautham-r2005">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gr0gautham@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/gautham-here">
+    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/gauthamgr">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
