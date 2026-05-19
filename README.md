@@ -14,7 +14,8 @@
 ## What I am doing:
 
 - Pursuing B.Tech. ECE in VIT Chennai and Online BS in Data Science @ IIT Madras
-- Rank 1 for Branch ECE, considering the first two years.
+- Amongst the top ten rank holders three years in a row for '23 Batch ECE Branch.
+- Completed Diploma in Data Science and Diploma in Programming as a part of the Online BS degree, currently pursuing Degree level.
 - Explored multiple domains including but not limited to Electronics (VLSI Design), Signal processing, Machine Learning and Web Development.
 
 ## 🌟 Featured Projects
