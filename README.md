@@ -32,27 +32,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautham-here&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-here&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-here&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
----
-<!--
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gautham-here/gautham-here/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-</p>
-
----
 -->
 ## 🔗 Connect With Me
 
