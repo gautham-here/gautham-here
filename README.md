@@ -24,7 +24,7 @@
 - **[ISA Internship Projects](https://github.com/gautham-here/isa-summer-2025)** – AI + space + physics: a deep dive into astrophysics under India Space Academy.
 - **[DTMF with Arduino](https://github.com/gautham-here/DTMFwithArduino)** – Tone-based digital control using simple hardware, analysis and demo using MATLAB.
 
-> More coming soon: 1D vs 2D Image Autoencoders, VLSI CNNs, and Unity-linked Smart Factory Twins!
+> More coming soon!
 
 ## 🛠️ Tech Stack
 
